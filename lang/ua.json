@@ -7,6 +7,7 @@
 	"wp_info_agent": "Введіть {lime}!agents{default}, щоб відкрити меню агентів",
 	"wp_info_music": "Введіть {lime}!music{default}, щоб відкрити меню музики",
 	"wp_info_pin": "Введіть {lime}!pins{default}, щоб відкрити меню пінів",
+	"wp_info_skin": "Type {lime}!skins{default} to open skins menu",
 	"wp_command_cooldown": "{lightred}Ви не можете оновити фарби зброї зараз",
 	"wp_command_refresh_done": "{lime}Оновлення фарби зброї",
 	"wp_knife_menu_select": "Ви обрали {lime}{0}{default} як свій ніж",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "Ви обрали {lime}{0}{default} як свою шкіру",
 
 	"wp_stattrak_action": "Ви успішно змінили налаштування статтрака",
-	
+
 	"None": "Немає"
 }

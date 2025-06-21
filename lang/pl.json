@@ -7,6 +7,7 @@
 	"wp_info_agent": "Wpisz {lime}!agents{default}, aby otworzyć menu agentów",
 	"wp_info_music": "Wpisz {lime}!music{default}, aby otworzyć menu muzyczne",
 	"wp_info_pin": "Wpisz {lime}!pins{default}, aby otworzyć menu pinów",
+	"wp_info_skin": "Wpisz {lime}!skins{default}, aby otworzyć menu skinów",
 	"wp_command_cooldown": "{lightred}Nie możesz teraz odświeżyć kolorów broni",
 	"wp_command_refresh_done": "{lime}Odświeżanie kolorów broni",
 	"wp_knife_menu_select": "Wybrałeś {lime}{0}{default} jako swój nóż",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "Wybrałeś {lime}{0}{default} jako swoją skórkę",
 
 	"wp_stattrak_action": "Pomyślnie zmieniłeś ustawienie stattraka",
-	
+
 	"None": "Brak"
 }

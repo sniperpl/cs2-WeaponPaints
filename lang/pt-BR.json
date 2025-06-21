@@ -7,6 +7,7 @@
 	"wp_info_agent": "Digite {lime}!agents{default} para abrir o menu de agentes",
 	"wp_info_music": "Digite {lime}!music{default} para abrir o menu de música",
 	"wp_info_pin": "Digite {lime}!pins{default} para abrir o menu de pins",
+	"wp_info_skin": "Type {lime}!skins{default} to open skins menu",
 	"wp_command_cooldown": "{lightred}Você não pode atualizar as skins de armas agora",
 	"wp_command_refresh_done": "{lime}Atualizando as skins de armas",
 	"wp_knife_menu_select": "Você escolheu {lime}{0}{default} como sua faca",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "Você escolheu {lime}{0}{default} como sua skin",
 
 	"wp_stattrak_action": "Você alterou a configuração de stattrak com sucesso",
-	
+
 	"None": "Nenhum"
 }

@@ -7,6 +7,7 @@
 	"wp_info_agent": "Введите {lime}!agents{default}, чтобы открыть меню агентов",
 	"wp_info_music": "Введите {lime}!music{default}, чтобы открыть меню музыки",
 	"wp_info_pin": "Введите {lime}!pins{default}, чтобы открыть меню пинов",
+	"wp_info_skin": "Type {lime}!skins{default} to open skins menu",
 	"wp_command_cooldown": "{lightred}Вы не можете обновить раскраску оружия сейчас",
 	"wp_command_refresh_done": "{lime}Обновление раскраски оружия",
 	"wp_knife_menu_select": "Вы выбрали {lime}{0}{default} в качестве вашего ножа",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "Вы выбрали {lime}{0}{default} в качестве вашего скина",
 
 	"wp_stattrak_action": "Вы успешно изменили настройки статтрак",
-	
+
 	"None": "Нет"
 }

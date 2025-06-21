@@ -7,6 +7,7 @@
 	"wp_info_agent": "Type {lime}!agents{default} to open agents menu",
 	"wp_info_music": "Type {lime}!music{default} to open music menu",
 	"wp_info_pin": "Type {lime}!pins{default} to open pins menu",
+	"wp_info_skin": "Type {lime}!skins{default} to open skins menu",
 	"wp_command_cooldown": "{lightred}You can't refresh weapon paints right now",
 	"wp_command_refresh_done": "{lime}Refreshing weapon paints",
 	"wp_knife_menu_select": "You have chosen {lime}{0}{default} as your knife",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "You have chosen {lime}{0}{default} as your skin",
 
 	"wp_stattrak_action": "You have successfully changed the stattrak setting",
-	
+
 	"None": "None"
 }

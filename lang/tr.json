@@ -7,6 +7,7 @@
 	"wp_info_agent": "Ajan menüsünü açmak için {lime}!agents{default} yazın",
 	"wp_info_music": "Müzik menüsünü açmak için {lime}!music{default} yazın",
 	"wp_info_pin": "{lime}!pins{default} yazarak pinler menüsünü açın",
+	"wp_info_skin": "Type {lime}!skins{default} to open skins menu",
 	"wp_command_cooldown": "{lightred}Şu anda silah boyalarını yenileyemezsiniz",
 	"wp_command_refresh_done": "{lime}Silah boyaları yenileniyor",
 	"wp_knife_menu_select": "{lime}{0}{default} olarak bıçağınızı seçtiniz",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "{lime}{0}{default} olarak cildinizi seçtiniz",
 
 	"wp_stattrak_action": "StatTrak ayarını başarıyla değiştirdiniz",
-	
+
 	"None": "Hiçbiri"
 }

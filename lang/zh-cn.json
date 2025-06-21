@@ -7,6 +7,7 @@
 	"wp_info_agent": "输入 {lime}!agents{default} 打开代理菜单",
 	"wp_info_music": "输入 {lime}!music{default} 打开音乐菜单",
 	"wp_info_pin": "输入 {lime}!pins{default} 来打开固定项菜单",
+	"wp_info_skin": "Type {lime}!skins{default} to open skins menu",
 	"wp_command_cooldown": "{lightred}您现在无法刷新武器涂装",
 	"wp_command_refresh_done": "{lime}正在刷新武器涂装",
 	"wp_knife_menu_select": "您选择了 {lime}{0}{default} 作为您的刀具",
@@ -25,6 +26,6 @@
 	"wp_skin_menu_select": "您选择了 {lime}{0}{default} 作为您的皮肤",
 
 	"wp_stattrak_action": "您已成功更改 StatTrak 设置",
-	
+
 	"None": "无"
 }
