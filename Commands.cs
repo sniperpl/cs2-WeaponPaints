@@ -372,7 +372,7 @@ public partial class WeaponPaints
 
 					if (!string.IsNullOrEmpty(paintName) && !string.IsNullOrEmpty(paint))
 					{
-						skinSubMenu?.AddMenuOption($"{paintName}", handleSkinSelection);
+						skinSubMenu?.AddMenuOption($"{paintName} ({paint})", handleSkinSelection);
 					}
 				}
 			}
